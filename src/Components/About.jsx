@@ -1,0 +1,71 @@
+import React from 'react'
+import Me from '../images/me.jpg'
+import * as FaIcons from 'react-icons/fa'
+import * as AiIcons from 'react-icons/ai'
+import * as BsIcons from 'react-icons/bs'
+import * as RiIcons from 'react-icons/ri'
+
+
+function About() {
+ 
+
+  return (
+    <div className='py-10 md:py-40 md:pb-40 flex flex-col justify-between items-center animate-fade-In' id='about'>
+        <div className=''>
+            <h1 className='text-white font-bold text-center text-3xl '>About Me</h1>
+            <p className='text-blueWhite text-sm text-center'>A  little Thing to know about me.</p>
+        </div>
+        <div className='flex  lg:flex lg:gap-10'>
+            <div className='mt-10  flex flex-col'>
+                <img src={Me} alt="" className='w-[200px] h-[200px] object-cover self-center rounded-[20px] md:w-[1600px] md:h-[350px] lg:w-[1200px] lg:h-[350px]' />
+                <p className='text-white text-base font-thin mt-5 text-center md:hidden '>A dedicated and creative graphic artist and web developer 
+                with experience working in deadline-driven environments and a strong focus on working within budget constraints. Skilled at planning, 
+                developing, and executing original design concepts for a variety of projects.
+                </p>
+                 <div className='text-blueWhite flex gap-10  mt-7 md:gap-20 md:hidden'>
+                    <div className="flex flex-col">
+                        <span className='text-sm font-thin'>03+</span> 
+                        <span className='text-sm font-thin text-center'>Years <br/>Experience</span>
+                    </div>
+                    <div className="flex flex-col">
+                        <span className='text-sm font-thin'>15+</span> 
+                        <span className='text-sm font-thin text-center'>Projects <br/>Done</span>
+                    </div>
+                    <div className="flex flex-col">
+                        <span className='text-sm font-thin'>03+</span> 
+                        <span className='text-sm font-thin text-center'>Companies <br/>Worked</span>
+                    </div>
+                </div>
+                <a target='_blank' rel='noreferrer' href='https://tinyurl.com/mr2j2p4p '>
+                    <button className='text-darkBlue bg-lightBlue w-[170px] px-4 py-4 flex gap-2 rounded-md mt-7 hover:text-white hover:animate-headShake hover:bg-blue md:hidden'>Download CV<BsIcons.BsDownload className='font-bold text-xl'/> </button>
+                </a>
+            </div>
+            <div className=' text-blueWhite mt-5 hidden md:ml-5 md:mt-10 md:block'>
+                <p className='text-white  text-center hidden md:text-left md:flex md:pr-20'>A dedicated and creative graphic artist and web developer with experience working 
+                in deadline-driven environments and a strong focus on working within budget constraints. Skilled at planning, developing, 
+                and executing original design concepts for a variety of projects.
+                </p>
+                <div className='flex gap-10 mt-10 md:gap-20'>
+                    <div className="flex flex-col">
+                        <span className='text-sm font-thin'>03+</span> 
+                        <span className='text-sm font-thin text-center'>Years <br/>Experience</span>
+                    </div>
+                    <div className="flex flex-col">
+                        <span className='text-sm font-thin'>15+</span> 
+                        <span className='text-sm font-thin text-center'>Projects <br/>Done</span>
+                    </div>
+                    <div className="flex flex-col">
+                        <span className='text-sm font-thin'>03+</span> 
+                        <span className='text-sm font-thin text-center'>Companies <br/>Worked</span>
+                    </div>
+                </div>
+               <a target='_blank' rel='noreferrer' href='http://https://tinyurl.com/mr2j2p4p '>
+                    <button className='bg-lightBlue w-[170px] px-4 py-4 text-darkBlue flex gap-2 rounded-md mt-10 hover:bg-blue hover:animate-headShake hover:text-white'>Download CV<BsIcons.BsDownload className='font-bold text-xl'/> </button>
+                </a> 
+            </div>
+        </div>
+    </div>
+  )
+}
+
+export default About
