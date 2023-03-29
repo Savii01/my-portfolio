@@ -29,7 +29,7 @@ function Skills() {
                     <FaIcons.FaCode className='text-lightBlue '/>
                     <div className="flex flex-col font-medium"> 
                         <span className='text-white '>Frontend Developer</span>
-                        <span className='text-sm  text-grayBlue '>More Than 6 months</span>
+                        <span className='text-sm  text-grayBlue '>More than 9 months</span>
                     </div>
                     <FaIcons.FaChevronDown className='text-lightBlue'/>
                 </div>
@@ -73,7 +73,7 @@ function Skills() {
                     <div className='mt-5'>
                         <div className='flex justify-between mb-2'>
                             <span className="text-white">Javascript</span>
-                            <span className="text-white">50%</span>
+                            <span className="text-white">60%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
                             <div className='w-[150px] h-full bg-lightBlue rounded-full'></div>
@@ -96,7 +96,7 @@ function Skills() {
                     <FaIcons.FaDatabase className='text-lightBlue '/>
                     <div className="flex flex-col font-medium"> 
                         <span className='text-white '>Backend Developer</span>
-                        <span className='text-sm  text-grayBlue '>More Than 6 months</span>
+                        <span className='text-sm  text-grayBlue '>More than 7 months</span>
                     </div>
                     <FaIcons.FaChevronDown className='text-lightBlue'/>
                 </div>
@@ -138,7 +138,7 @@ function Skills() {
                     <FaIcons.FaPaintBrush className='text-lightBlue '/>
                     <div className="flex flex-col font-medium"> 
                         <span className='text-white '>Graphic Designer</span>
-                        <span className='text-sm  text-grayBlue '>More Than 6 months</span>
+                        <span className='text-sm  text-grayBlue '>More than a year</span>
                     </div>
                     <FaIcons.FaChevronDown className='text-lightBlue'/>
                 </div>
@@ -186,7 +186,7 @@ function Skills() {
                     <FaIcons.FaLaptopCode className='text-lightBlue '/>
                     <div className="flex flex-col font-medium"> 
                         <span className='text-white '>Web Designer</span>
-                        <span className='text-sm  text-grayBlue '>More Than 6 months</span>
+                        <span className='text-sm  text-grayBlue '>More than 6 months</span>
                     </div>
                     <FaIcons.FaChevronDown className='text-lightBlue'/>
                 </div>
@@ -194,7 +194,7 @@ function Skills() {
                     <div className='mt-5'>
                         <div className='flex justify-between mb-2'>
                             <span className="text-white">Word Press</span>
-                            <span className="text-white">90%</span>
+                            <span className="text-white">80%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
                             <div className='w-[250px] h-full bg-lightBlue rounded-full'></div>
@@ -203,7 +203,7 @@ function Skills() {
                     <div className='mt-5'>
                         <div className='flex justify-between mb-2'>
                             <span className="text-white">Wix</span>
-                            <span className="text-white">80%</span>
+                            <span className="text-white">90%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
                             <div className='w-[240px] h-full bg-lightBlue rounded-full'></div>
