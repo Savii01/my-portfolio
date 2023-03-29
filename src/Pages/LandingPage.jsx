@@ -33,12 +33,12 @@ function LandingPage() {
 
     <div className="bg-lightBlue text-darkBlue text-4xl px-10 md:px-40 py-20">
       <div className="md:flex justify-between items-center">
-        <div className="flex flex-col">
+        <div className="flex text-center md:text-left flex-col">
           <span className="text-5xl font-bold">Saviour.</span>
           <span className='text-xl font-medium'>Fullstack developer</span>
         </div>
         <div className={`text-sm md:flex`}>
-            <ul className='md:flex md:gap-5 md:font-semibold md:text-sm'>
+            <ul className='text-center grid grid-cols-2 mb-10 font-bold mt-10 md:flex md:gap-5 md:font-semibold md:text-sm'>
               <Link to='#skills' smooth>
                   <li className='cursor-pointer mb-4 md:hover:text-white md:hover:bg-darkBlue md:hover:px-5 md:hover:py-2 md:hover:rounded' onClick={()=>setShowMenu(!showMenu)}>Skills</li>
                 </Link>
@@ -53,7 +53,7 @@ function LandingPage() {
                 </Link>
             </ul>
           </div>
-          <div className='grid grid-cols-3 gap-5 md:pr-10 lg:pr-20 '>
+          <div className='ml-12 md:ml-0 mb-10 grid grid-cols-3 gap-5 md:pr-10 lg:pr-20 '>
             <a target='_blank' rel='noreferrer' href='https://github.com/Savii01'>
               <FaIcons.FaGithub className='text-darkBlue hover:text-white hover:bg-darkBlue hover:px-2 hover:text-4xl hover:py-2 hover:rounded cursor-pointer text-2xl '/>
             </a>
