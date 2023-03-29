@@ -281,13 +281,18 @@ module.exports = {
       },
 
       colors:{
-          darkBlue: '#06373b',
+          darkblue: '#06373b',
+          darkBlue: '#1e1e1e',
           white: '#ffffff',
           lightBlue: '#00e7fc',
-          grayBlue: '#5f8285',
-          blueWhite: '#92c1c5',
+          lightblue: '#00e7fc',
+          grayblue: '#5f8285',
+          grayBlue: '#707070',
+          bluewhite: '#92c1c5',
+          blueWhite: '#707070',
           lightBlueWhite: '#d3fbff',
-          blue: '#0c545a',
+          Blue: '#0c545a',
+          blue: '#2b2b2b',
       },
       fontFamily: {
           sans: ["Poppins"],
