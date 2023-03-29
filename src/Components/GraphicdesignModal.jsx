@@ -17,7 +17,7 @@ function GraphicdesignModal({visible, onClose}) {
                     <li className='flex text-white font-light'><span className='text-lightBlue mr-2 text-xl font-bold'>-</span>I develop identities for brands.</li>
                     <li className='flex text-white font-light'><span className='text-lightBlue mr-2 text-xl font-bold'>-</span>A good user of adobe photoshop, illustrator & inDesign.</li>
                     <li className='flex text-white font-light'><span className='text-lightBlue mr-2 text-xl font-bold'>-</span>A creative and outstanding Designer.</li>
-                    <li className='flex text-white font-light'><span className='text-lightBlue mr-2 text-xl font-bold'>-</span>Good in motion Graphic and illustrational animation.</li>
+                    <li className='flex text-white font-light'><span className='text-lightBlue mr-2 text-xl font-bold'>-</span>Good in illustrations and digital arts.</li>
                    
                 </ul>
             </div>
@@ -30,7 +30,7 @@ function GraphicdesignModal({visible, onClose}) {
                     <li className='flex text-white font-light '><AiIcons.AiOutlineCheckCircle className='text-lightBlue text-2xl mr-2 md:text-xl '/>I develop identities for brands.</li>
                     <li className='flex text-white font-light '><AiIcons.AiOutlineCheckCircle className='text-lightBlue text-2xl mr-2 md:text-xl '/>A good user of adobe photoshop, illustrator & inDesign.</li>
                     <li className='flex text-white font-light '><AiIcons.AiOutlineCheckCircle className='text-lightBlue text-2xl mr-2 md:text-xl '/>A creative and outstanding Designer..</li>
-                    <li className='flex text-white font-light '><AiIcons.AiOutlineCheckCircle className='text-lightBlue text-2xl mr-2 md:text-xl '/>Good in motion Graphic and illustrational animation.</li>
+                    <li className='flex text-white font-light '><AiIcons.AiOutlineCheckCircle className='text-lightBlue text-2xl mr-2 md:text-xl '/>Good in illustrations and digital arts.</li>
                    
                 </ul>
             </div>

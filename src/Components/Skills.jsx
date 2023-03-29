@@ -40,7 +40,7 @@ function Skills() {
                             <span className="text-white">90%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[250px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[250px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -49,7 +49,7 @@ function Skills() {
                             <span className="text-white">70%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[200px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[200px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -58,7 +58,7 @@ function Skills() {
                             <span className="text-white">90%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[250px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[250px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -67,7 +67,7 @@ function Skills() {
                             <span className="text-white">80%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[220px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[220px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -76,7 +76,7 @@ function Skills() {
                             <span className="text-white">50%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[150px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[150px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -85,7 +85,7 @@ function Skills() {
                             <span className="text-white">70%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[200px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[200px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ function Skills() {
                         <span className="text-white">50%</span>
                     </div>
                     <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                        <div className='w-[150px] h-full bg-blue rounded-full'></div>
+                        <div className='w-[150px] h-full bg-lightBlue rounded-full'></div>
                     </div>
                 </div>
                 <div className='mt-5'>
@@ -116,7 +116,7 @@ function Skills() {
                         <span className="text-white">70%</span>
                     </div>
                     <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                        <div className='w-[200px] h-full bg-blue rounded-full'></div>
+                        <div className='w-[200px] h-full bg-lightBlue rounded-full'></div>
                     </div>
                 </div>
                 <div className='mt-5'>
@@ -125,7 +125,7 @@ function Skills() {
                         <span className="text-white">90%</span>
                     </div>
                     <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                        <div className='w-[250px] h-full bg-blue rounded-full'></div>
+                        <div className='w-[250px] h-full bg-lightBlue rounded-full'></div>
                     </div>
                 </div>
                 
@@ -149,7 +149,7 @@ function Skills() {
                             <span className="text-white">90%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[250px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[250px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -158,7 +158,7 @@ function Skills() {
                             <span className="text-white">80%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[240px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[240px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -167,7 +167,7 @@ function Skills() {
                             <span className="text-white">70%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[220px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[220px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -176,7 +176,7 @@ function Skills() {
                             <span className="text-white">90%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[250px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[250px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                 </div>           
@@ -197,7 +197,7 @@ function Skills() {
                             <span className="text-white">90%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[250px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[250px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                     <div className='mt-5'>
@@ -206,7 +206,7 @@ function Skills() {
                             <span className="text-white">80%</span>
                         </div>
                         <div className='w-[300px] h-2 bg-lightBlueWhite rounded-full'>
-                            <div className='w-[240px] h-full bg-blue rounded-full'></div>
+                            <div className='w-[240px] h-full bg-lightBlue rounded-full'></div>
                         </div>
                     </div>
                 </div>           

@@ -60,24 +60,24 @@ console.log(values)
         </div>
         {status && renderAlert()} 
         <div className="mt-20 grid grid-col-2 gap-10 md:flex text-white text-xl">
-            <div className="flex flex-col">
+            <div className="flex flex-col gap-3">
                 <div className="flex gap-4 md:gap-3 items-center">
                     <FaIcons.FaPhone className='rotate-[100deg] text-lightBlue text-4xl md:text-3xl'/>
-                    <div className="flex flex-col gap-2">
+                    <div className="flex flex-col">
                         <span className='font-medium text-xl'>Call Me</span>
                         <span className='text-grayBlue text-[14px]'>+234-904-915-2073</span>
                     </div>
                 </div>
-                <div className="flex gap-2 md:gap-4 items-center">
+                <div className="flex gap-4 md:gap-4 items-center">
                     <FaIcons.FaEnvelope className='text-lightBlue text-4xl md:text-3xl'/>
-                    <div className="flex flex-col gap-2">
+                    <div className="flex flex-col">
                         <span className='font-medium tex-2xl'>Email</span>
                         <span className='text-grayBlue text-[14px]'>saviourandrew889@gmail.com</span>
                     </div>
                 </div>
                 <div className="flex gap-4 md:gap-3 items-center">
-                    <FaIcons.FaLocationArrow className='text-lightBlue text-4xl md:text-3xl '/>
-                    <div className="flex flex-col gap-2">
+                    <AiIcons.AiFillEnvironment className='text-lightBlue text-4xl md:text-3xl '/>
+                    <div className="flex flex-col">
                         <span className='font-medium text-xl'>Address</span>
                         <span className='text-grayBlue text-[14px]'>..Nigeria</span>
                     </div>
@@ -99,7 +99,7 @@ console.log(values)
                 <div>
                    <textarea value={values.message}  name='message' rows='4' type="text" placeholder="Message*" onChange={handleOnChange} className='outline-0  text-[14px] bg-blue pt-[3px] px-[20px] w-full h-[150px] rounded-md focus:border focus:border-lightBlue' required={true}/>
                 </div>
-                 <button type='submit' className='bg-lightBlue w-[120px] px-4 py-4 text-darkBlue text-base flex gap-2 rounded-md mt-10 items-center hover:bg-blue hover:animate-headShake hover:text-white'>Send <FaIcons.FaArrowRight className='font-medium text-base'/> </button>
+                 <button type='submit' className='ml-16 md:ml-0 bg-blue w-[120px] px-4 py-4 text-white text-base flex gap-2 rounded-md mt-10 items-center hover:bg-lightBlue hover:animate-headShake hover:text-darkBlue'>Send <FaIcons.FaArrowRight className='font-medium text-base'/> </button>
             </form>
         </div>
     </div>

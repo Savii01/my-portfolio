@@ -22,22 +22,22 @@ function About() {
                 with experience working in deadline-driven environments and a strong focus on working within budget constraints. Skilled at planning, 
                 developing, and executing original design concepts for a variety of projects.
                 </p>
-                 <div className='text-blueWhite flex gap-10  mt-7 md:gap-20 md:hidden'>
-                    <div className="flex flex-col">
-                        <span className='text-sm font-thin'>03+</span> 
-                        <span className='text-sm font-thin text-center'>Years <br/>Experience</span>
+                 <div className='text-blueWhite  flex justify-center items-center gap-10  mt-7 md:gap-20 md:hidden'>
+                    <div className="justify-center items-center flex flex-col">
+                        <span className='text-sm  font-bold'>03+</span> 
+                        <span className='text-sm  font-bold text-center'>Years <br/>Experience</span>
                     </div>
-                    <div className="flex flex-col">
-                        <span className='text-sm font-thin'>15+</span> 
-                        <span className='text-sm font-thin text-center'>Projects <br/>Done</span>
+                    <div className="justify-center items-center flex flex-col">
+                        <span className='text-sm  font-bold'>15+</span> 
+                        <span className='text-sm  font-bold text-center'>Projects <br/>Done</span>
                     </div>
-                    <div className="flex flex-col">
-                        <span className='text-sm font-thin'>03+</span> 
-                        <span className='text-sm font-thin text-center'>Companies <br/>Worked</span>
+                    <div className="justify-center items-center flex flex-col">
+                        <span className='text-sm  font-bold'>03+</span> 
+                        <span className='text-sm  font-bold text-center'>Companies <br/>Worked</span>
                     </div>
                 </div>
                 <a target='_blank' rel='noreferrer' href='https://tinyurl.com/mr2j2p4p '>
-                    <button className='text-darkBlue bg-lightBlue w-[170px] px-4 py-4 flex gap-2 rounded-md mt-7 hover:text-white hover:animate-headShake hover:bg-blue md:hidden'>Download CV<BsIcons.BsDownload className='font-bold text-xl'/> </button>
+                    <button className='ml-20 text-white bg-blue w-[170px] px-4 py-4 flex gap-2 rounded-md mt-7 hover:text-darkBlue hover:animate-headShake hover:bg-lightBlue md:hidden'>Download CV<BsIcons.BsDownload className='font-bold text-xl'/> </button>
                 </a>
             </div>
             <div className=' text-blueWhite mt-5 hidden md:ml-5 md:mt-10 md:block'>
@@ -45,22 +45,22 @@ function About() {
                 in deadline-driven environments and a strong focus on working within budget constraints. Skilled at planning, developing, 
                 and executing original design concepts for a variety of projects.
                 </p>
-                <div className='flex gap-10 mt-10 md:gap-20'>
-                    <div className="flex flex-col">
-                        <span className='text-sm font-thin'>03+</span> 
-                        <span className='text-sm font-thin text-center'>Years <br/>Experience</span>
+                <div className='flex font-bold gap-10 mt-10 md:gap-20'>
+                    <div className="flex  flex-col">
+                        <span className='text-sm  font-bold'>03+</span> 
+                        <span className='text-sm  font-bold '>Years <br/>Experience</span>
                     </div>
                     <div className="flex flex-col">
-                        <span className='text-sm font-thin'>15+</span> 
-                        <span className='text-sm font-thin text-center'>Projects <br/>Done</span>
+                        <span className='text-sm  font-bold'>15+</span> 
+                        <span className='text-sm  font-bold '>Projects <br/>Done</span>
                     </div>
                     <div className="flex flex-col">
-                        <span className='text-sm font-thin'>03+</span> 
-                        <span className='text-sm font-thin text-center'>Companies <br/>Worked</span>
+                        <span className='text-sm  font-bold'>03+</span> 
+                        <span className='text-sm  font-bold '>Companies <br/>Worked</span>
                     </div>
                 </div>
                <a target='_blank' rel='noreferrer' href='http://https://tinyurl.com/mr2j2p4p '>
-                    <button className='bg-lightBlue w-[170px] px-4 py-4 text-darkBlue flex gap-2 rounded-md mt-10 hover:bg-blue hover:animate-headShake hover:text-white'>Download CV<BsIcons.BsDownload className='font-bold text-xl'/> </button>
+                    <button className='bg-blue w-[170px] px-4 py-4 text-white flex gap-2 rounded-md mt-10 hover:bg-lightBlue hover:animate-headShake hover:text-darkBlue'>Download CV<BsIcons.BsDownload className='font-bold text-xl'/> </button>
                 </a> 
             </div>
         </div>
