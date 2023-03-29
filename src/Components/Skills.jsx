@@ -138,7 +138,7 @@ function Skills() {
                     <FaIcons.FaPaintBrush className='text-lightBlue '/>
                     <div className="flex flex-col font-medium"> 
                         <span className='text-white '>Graphic Designer</span>
-                        <span className='text-sm  text-grayBlue '>More than a year</span>
+                        <span className='text-sm  text-grayBlue '>More than 2 years</span>
                     </div>
                     <FaIcons.FaChevronDown className='text-lightBlue'/>
                 </div>
