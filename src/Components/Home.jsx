@@ -10,7 +10,7 @@ import { HashLink as Link } from 'react-router-hash-link'
 function Home() {
   return (
 
-    <div className='py-10 md:py-32 md:flex lg:w-[800px] justify-center items-center' id='home'>
+    <div className='py-10 md:py-32 md:flex lg:w-[1400px] justify-center items-center' id='home'>
       <div className='flex flex-col md:flex justify-between items-center animate-fadeInLeft'>
         <div className='w-[400px] md:w-[800px] animate-fadeInRight  md:hidden'>
            <img src={Photo1} alt="photo1" />
@@ -39,7 +39,7 @@ function Home() {
       </div>
       <div className=' text-center md:text-left flex flex-col gap-2 text-white animate-fadeIn'>
         <h1 className='font-semibold text-4xl lg:text-5xl '>Hi, I'm Saviour</h1>
-        <p className='text-blueWhite font-medium text-xl lg:text-2xl '>Full stack developer</p>
+        <p className='text-blueWhite font-medium text-xl lg:text-2xl '>Full stack developer/Graphic Design</p>
         <p className='text-white text-base font-thin mt-2  lg:pr-20'>High level experience in web design and graphic designing with knowledge required in the production of quality work and services.
         </p>
         <Link to='#contact' smooth className='active:text-lightBlue' >
