@@ -11,14 +11,14 @@ function About() {
 
   return (
     <div className='py-10 md:py-40 md:pb-40 flex flex-col justify-between items-center animate-fade-In' id='about'>
-        <div className=''>
+        <div className='xl:mb-10'>
             <h1 className='text-white font-bold text-center text-3xl '>About Me</h1>
             <p className='text-blueWhite text-sm text-center'>A  little Thing to know about me.</p>
         </div>
-        <div className='flex  lg:flex lg:gap-10'>
+        <div className='flex  lg:flex lg:gap-10 xl:ml-[200px]'>
             <div className='mt-10  flex flex-col'>
-                <img src={Me} alt="" className='w-[200px] h-[200px] object-cover self-center rounded-[20px] md:w-[1600px] md:h-[350px] lg:w-[1200px] lg:h-[350px]' />
-                <p className='text-white text-base font-thin mt-5 text-center md:hidden '>A dedicated and creative graphic artist and web developer 
+                <img src={Me} alt="" className='w-[200px] h-[200px] object-cover self-center rounded-[20px] md:w-[1600px] md:h-[350px] lg:w-[1200px] lg:h-[350px] xl:h-[400px] xl:w-[800px]' />
+                <p className='text-white  text-base font-thin mt-5 text-center md:hidden '>A dedicated and creative graphic artist and web developer 
                 with experience working in deadline-driven environments and a strong focus on working within budget constraints. Skilled at planning, 
                 developing, and executing original design concepts for a variety of projects.
                 </p>
@@ -41,7 +41,7 @@ function About() {
                 </a>
             </div>
             <div className=' text-blueWhite mt-5 hidden md:ml-5 md:mt-10 md:block'>
-                <p className='text-white  text-center hidden md:text-left md:flex md:pr-20'>A dedicated and creative graphic artist and web developer with experience working 
+                <p className='text-white leading-[2rem] text-center hidden md:text-left md:flex md:pr-20 xl:pr-[300px]'>A dedicated and creative graphic artist and web developer with experience working 
                 in deadline-driven environments and a strong focus on working within budget constraints. Skilled at planning, developing, 
                 and executing original design concepts for a variety of projects.
                 </p>
