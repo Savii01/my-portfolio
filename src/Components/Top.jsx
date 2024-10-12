@@ -11,10 +11,10 @@ function Top() {
 // }
   return (
     <div className='z-[999] bg-darkBlue flex justify-between items-center fixed bottom-0 h-10 right-0 left-0 px-4  md:fixed md:h-20 md:top-0 md:left-10 md:right-10 lg:right-20 lg:left-20 xl:right-40 xl:left-40'>
-      <div className=' text-white md:flex py-10 md:gap-[150px] md:py-7 lg:gap-[400px] '>
+      <div className=' text-white md:flex py-10 md:gap-[150px] md:py-7 lg:gap-[400px] xl:gap-[800px]'>
         <span className=' font-bold' >Saviour.</span>
         <div className={`hidden md:flex`}>
-            <ul className='md:flex md:gap-5 md:font-semibold md:text-sm'>
+            <ul className='md:flex md:gap-5 xl:gap-10 md:font-semibold md:text-sm'>
               <Link to='#home' smooth  exact 
               // scroll={el => scrollWidthOffset(el)}
               >
